@@ -6,3 +6,9 @@
 - Setup AWS Codebuild (Codebuild is going to use the buildspec file as an instruction on what to do)
 - Setup ECS Cluster
 - Setup AWS Pipline (which is going to deploy the application to ECS cluster)
+
+
+
+the main goal for this project is to upload file, go into another computer or when you traveling around, you just go in to the webside and download your file easliy.
+
+- "Free icense-free"
