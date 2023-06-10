@@ -9,6 +9,6 @@
 
 
 
-the main goal for this project is to upload file, go into another computer or when you traveling around, you just go in to the webside and download your file easliy.
+the main goal for this project is to upload file, (go into another computer or somewhere else, meybe visiting or distro hopping) you just go in to the webside and download your file easliy.
 
 - the code is "Free licensee"
